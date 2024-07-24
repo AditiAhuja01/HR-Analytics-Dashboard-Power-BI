@@ -15,3 +15,10 @@ The HR Analytics Dashboard is an interactive Power BI report designed to provide
 This dashboard provides valuable insights for HR departments, aiding in strategic planning and decision-making. By understanding the data, organizations can implement targeted interventions to enhance employee retention and job satisfaction.
 
 ![Description of Image](https://github.com/AditiAhuja01/HR-Analytics-Dashboard-Power-BI/blob/main/HR%20Analytics%20Dashboard.pdf)
+## Dashboard Screenshots
+
+### Screenshot 1
+![Dashboard Overview](https://github.com/AditiAhuja01/HR-Analytics-Dashboard-Power-BI/blob/main/HR%20Analytics%20Dashboard.pdf)
+
+### Screenshot 2
+![Detailed View](https://github.com/AditiAhuja01/HR-Analytics-Dashboard-Power-BI/blob/main/HR%20Analytics%20Dashboard.pdf)
