@@ -19,9 +19,9 @@ The HR Analytics Dashboard is an interactive Power BI report designed to provide
 * Laboratory Technicians have the lowest job satisfaction
 
 ### Additional Insights:
-The company has been growing steadily over the past few years, as evidenced by the increasing number of employees.
-There is a relatively high level of job satisfaction among employees, although there are some areas for improvement.
-The company has a diverse workforce in terms of age, gender, and education level.
+* The company has been growing steadily over the past few years, as evidenced by the increasing number of employees.
+* There is a relatively high level of job satisfaction among employees, although there are some areas for improvement.
+* The company has a diverse workforce in terms of age, gender, and education level.
 
 ## Conclusion:
 This dashboard provides valuable insights for HR departments, aiding in strategic planning and decision-making. By understanding the data, organizations can implement targeted interventions to enhance employee retention and job satisfaction.
