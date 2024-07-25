@@ -14,7 +14,6 @@ The HR Analytics Dashboard is an interactive Power BI report designed to provide
 * Life Sciences has the highest attrition among Education Fields
 
 ### Job Satisfaction:
-* Overall average job satisfaction: 3.3 out of 5
 * Highest satisfaction among Research Directors
 * Laboratory Technicians have the lowest job satisfaction
 
